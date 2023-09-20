@@ -2,7 +2,7 @@
 
 pkgname='lw-runtime'
 pkgver='0.0.1'
-pkgrel='1'
+pkgrel='2'
 pkgbase="$pkgname"
 pkgdesc='Wine runtime libraries for Lux Wine'
 url="https://github.com/VHSgunzo/lw-runtime"
