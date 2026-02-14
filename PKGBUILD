@@ -1,7 +1,7 @@
 # Maintainer: VHSgunzo <vhsgunzo.github.io>
 
 pkgname='lw-runtime'
-pkgver='0.0.5'
+pkgver='0.0.6'
 pkgrel='1'
 pkgdesc='Wine runtime libraries for Lux Wine'
 url="https://github.com/VHSgunzo/lw-runtime"
